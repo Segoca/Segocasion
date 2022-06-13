@@ -1,2 +1,2 @@
-# p-gina-segocasion
+# segocasion
 Es una prueba
